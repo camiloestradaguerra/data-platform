@@ -1,7 +1,7 @@
 [project]
 name = "cooperativa-data-platform"
 version = "0.1.0"
-description = "Add your description here"
+description = "Pipeline y visualización de datos para cooperativa financiera"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
